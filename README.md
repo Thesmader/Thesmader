@@ -30,5 +30,5 @@ I am a:
 #### ⚡ Interests: 
 
 - I like to develop apps and experiment with Flutter.
-- I love to use Vim and Linux. [My dotfiles](https://github.conm/Thesmader/dotfiles).
+- I love to use Vim and Linux. [My dotfiles](https://github.com/Thesmader/dotfiles).
 <!--[![Thesmader's github stats](https://github-readme-stats.vercel.app/api?username=Thesmader&theme=monokai&count_private=true&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)-->
