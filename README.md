@@ -17,7 +17,8 @@ I am a:
 
 - In Progress:
   - 🔭 I'm currently working on the `Avenue for NITR` app using Flutter. Find it at [dscnitrourkela/project-elaichi](https://github.com/dscnitrourkela/project-elaichi). An all in one app for students at NIT Rourkela.
-  - 💻 Developing a vim plugin inspired by [pubspec-assist](https://github.com/jeroen-meijer/pubspec-assist) extension for VS Code.
+  - 💻 Developing a vim [plugin](https://github.com/Thesmader/pubspec-assist.vim) inspired by [pubspec-assist](https://github.com/jeroen-meijer/pubspec-assist) extension for VS Code.
+  - 💻 Developing a neovim plugin to use Github CLI features in Neovim. Find it here: [ghcli.nvim](https://github.com/Thesmader/ghcli.nvim) extension for VS Code.
 
 - Completed:
   - Added dartpad samples for [SnackBar](https://master-api.flutter.dev/flutter/material/SnackBar-class.html) in the Flutter documentation. Find the PR [here](https://github.com/flutter/flutter/pull/69555).
