@@ -3,7 +3,8 @@
 I am a:
 
 - Flutter Developer
-- Core Team Member: [DSC NIT Rourkela](https://github.com/dscnitrourkela)
+- Software Engineer: [marketfeed.](https://marketfeed.com)
+- Founding Member: [DSC NIT Rourkela](https://github.com/dscnitrourkela)
 - Former developer, photographer, and photography coordinator: [Monday Morning](https://mondaymoring.nitrkl.ac.in)
 <!--- Working at: [Sourcegraph](https://www.sourcegraph.com/)-->
 <!--- Live Coder: [teej_dv](https://twitch.tv/teej_dv)-->
