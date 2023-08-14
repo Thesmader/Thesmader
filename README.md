@@ -14,7 +14,7 @@ I am a:
 - Discord: `Smarak D#7134`
 - Twitter: `thesmader`
 
-#### Projects:
+<!--#### Projects:
 
 - In Progress:
   - 🔭 I'm currently working on the `Avenue for NITR` app using Flutter. Find it at [dscnitrourkela/project-elaichi](https://github.com/dscnitrourkela/project-elaichi). An all in one app for students at NIT Rourkela.
@@ -26,8 +26,8 @@ I am a:
   - GoGrocy Mobile App. Find it at [dscnitrourkela/project-raasan](https://github.com/dscnitrourkela/project-raasan). This project helped people get groceries delivered to their home in tier 3 cities.
   - ICS NIT Rourkela App. Find it at [dscnitrourkela/project-avocado](https://github.com/dscnitrourkela/project-avocado). The app helps new students at NIT Rourkela get answers to their questions and interact with the Institute Counseling Services.
   - [Monday Morning App](https://play.google.com/store/apps/details?id=in.ac.nitrkl.mondaymorning) - Mobile app of the student media body of NIT Rourkela.
-<!--- 🔭 I’m the author of [pubspec-assist.nvim](https://github.com/Thesmader/pubspec-assist.nvim)-->
-<!--- Popular dotfile configuration / examples for my [configuration_manager](https://github.com/tjdevries/config_manager)-->
+🔭 I’m the author of [pubspec-assist.nvim](https://github.com/Thesmader/pubspec-assist.nvim)
+Popular dotfile configuration / examples for my [configuration_manager](https://github.com/tjdevries/config_manager)-->
 
 #### ⚡ Interests: 
 
