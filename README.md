@@ -2,7 +2,7 @@
 
 I am a:
 
-- Flutter Developer
+- Full stack Developer
 - Software Engineer: [marketfeed.](https://marketfeed.com)
 - Founding Member: [DSC NIT Rourkela](https://github.com/dscnitrourkela)
 - Former developer, photographer, and photography coordinator: [Monday Morning](https://mondaymoring.nitrkl.ac.in)
@@ -10,8 +10,8 @@ I am a:
 <!--- Live Coder: [teej_dv](https://twitch.tv/teej_dv)-->
 
 #### Contact Information:
-- Email: `dsmarak17 <at> gmail.com`
-- Discord: `Smarak D#7134`
+- Email: `dsmarak17@gmail.com`
+- Discord: `thesmader17`
 - Twitter: `thesmader`
 
 <!--#### Projects:
